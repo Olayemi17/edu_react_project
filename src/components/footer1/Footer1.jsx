@@ -4,7 +4,7 @@ import brooklyn from "../../assets/brooklyn.png"
 import james from "../../assets/james.png"
 import robert from "../../assets/robert.png"
 import micheal from "../../assets/micheal.png"
-import be from "../../assets/be.png"
+import be from "../../assets/Be.png"
 function Footer1(){
     return(
         <>
